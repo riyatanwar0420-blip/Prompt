@@ -1,0 +1,3 @@
+I am managing a college canteen for one week with a budget of ₹10,000. Help me plan a simple and affordable menu that students would actually like. Suggest around 5–6 food items and drinks, along with reasonable prices and the quantity I should prepare each day.
+Consider that demand may be higher during lunch and breaks, so suggest which items I should prepare in larger quantities and how I can avoid too much food being wasted. Keep the prices student-friendly while still trying to make a small profit. Also divide the ₹10,000 budget between ingredients, drinks, packaging, and an emergency reserve.
+Present the final plan in a simple table with item, price, estimated quantity, expected sales, and budget. Keep the plan realistic for a normal college canteen.
